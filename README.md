@@ -1,17 +1,24 @@
-# proyectoPYTOHN
+# Mi Proyecto
 
 Ese es mi inicio en **PYTHYON** 
 
-este proyecto  se necesita install 'PYTHON'
+## Install
 
-también DJANGO con el comando 'pip install django'
+este proyecto  se necesita install '**-PYTHON-**'
 
-para crear una Proyecto en PYTHON  es con el comando "django-admin startproject AppWebInicio"
+## Comando para utilizar en "Django" se porne el comando 
 
-para crear una Aplicación en PYTHON  es con el comanndo "django-admin startapp app"
-este comando se poner dentro de la carpeta "AppWebInicio"
+- '--pip install django--'
+
+## Para crear una "Proyecto" en PYTHON  
+- Es con el comando "--django-admin startproject AppWebInicio--"
+
+## Para crear una "Aplicación" en PYTHON  
+- Es con el comanndo "--django-admin startapp app--"
+  - Este comando se poner dentro de la carpeta "AppWebInicio"
 
 
-para ejecutar este programa es con el comando "python manage.py runserver "
+## Para ejecutar este programa es con el
+- comando "python manage.py runserver "
 
 
